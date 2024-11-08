@@ -4,5 +4,6 @@
 
 ・ソースコード: [リンクはこちら](https://github.com/katsuta1104/Python-BeginnerBreak-/tree/main/Explanation)
 
-###### 現在作成途中です
+<br />
 
+**注:現在作成中**
