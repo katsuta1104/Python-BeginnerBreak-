@@ -1,5 +1,8 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-    <meta charset="utf-8">
-    <title>Python〜初心者脱却編〜<\title>
+# Python〜初心者脱却編〜
+
+内蔵資料
+
+・ソースコード: [リンクはこちら](https://github.com/katsuta1104/Python-BigginerBreak-/tree/main/Explanation)
+
+###### 現在作成途中です
+
