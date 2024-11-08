@@ -2,7 +2,7 @@
 
 内蔵資料
 
-・ソースコード: [リンクはこちら](https://github.com/katsuta1104/Python-BeginnerBreak-/tree/main/Explanation)
+・ソースコード: [リンクはこちら](https://github.com/katsuta1104/Python-BeginnerBreak-/tree/main/SourceCode)
 
 <br />
 
