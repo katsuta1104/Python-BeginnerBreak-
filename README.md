@@ -2,7 +2,7 @@
 
 内蔵資料
 
-・ソースコード: [リンクはこちら](https://github.com/katsuta1104/Python-BigginerBreak-/tree/main/Explanation)
+・ソースコード: [リンクはこちら](https://github.com/katsuta1104/Python-BiginnerBreak-/tree/main/Explanation)
 
 ###### 現在作成途中です
 
