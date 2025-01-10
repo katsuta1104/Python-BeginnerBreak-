@@ -7,7 +7,7 @@ G=[[]for _ in range(N)]
 for i in range(N-1):
     G[P[i]].append(i+1)
 
-#DFSお実装する。ansを用いて部分木の頂点数を求める
+#DFSを実装する。ansを用いて部分木の頂点数を求める
 def dfs(pos,visited,ans):
     if pos not in visited:
         visited.add(pos)
